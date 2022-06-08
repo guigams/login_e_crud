@@ -56,4 +56,4 @@ Server
 
 <hr/>
 
-Feito Por Guilherme Morais e contribuidores.
+Feito Por Guilherme Morais e colaboradores.
