@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/favicon.png" alt="logo" height="200"/>
+  <img src="https://github.com/guigams/login_e_crud/blob/main/prints_crud/logojob.png" alt="logo" height="200"/>
 </h4>
 
 <h1 align="center">
@@ -11,10 +11,10 @@
 Projeto com tela de login e CRUD, na qual a partir do momento que você cadastra seu usuario, esses dados são direcionados para o banco de dados (MySQL), dando acesso ao CRUD. Obejetivo do CRUD é cadastrar, editar e deletar dados que também são direcionados a um segundo banco de dados. Projeto feito com fins educativos. 
 
 ## ✅ Demonstração
-<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/tela_cadastro.PNG" />
-<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/tela_login.PNG" />
-<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/print_crud_front.PNG" />
-<img src="https://github.com/amandaribeiro0/tela_login_crud_reactjs_mysql/blob/main/images/crud_front_eidt.PNG" />
+<img src="https://github.com/guigams/login_e_crud/blob/main/prints_crud/tela_login.PNG" />
+<img src="https://github.com/guigams/login_e_crud/blob/main/prints_crud/tela_cadastro.PNG" />
+<img src="https://github.com/guigams/login_e_crud/blob/main/prints_crud/print_crud_front.PNG" />
+<img src="https://github.com/guigams/login_e_crud/blob/main/prints_crud/crud_front_eidt.PNG" />
 
 ## ⚙ Pré-requisitos
 
